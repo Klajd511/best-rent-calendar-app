@@ -1,6 +1,6 @@
 {
- "version": "1.20.2",
+ "version": "1.21.0",
  "date": "2026-11-12",
- "url": "https://github.com/Klajd511/best-rent-calendar-app/raw/main/Best-Rent-Fleet-Calendar-1.20.2.apk",
- "notes": "• Update button now works from inside the app\n• Pinch with two fingers to zoom the calendar\n• Pick-ups and returns shown under every date\n• Tight turnarounds marked with an amber corner"
+ "url": "https://github.com/Klajd511/best-rent-calendar-app/raw/main/Best-Rent-Fleet-Calendar-1.21.0.apk",
+ "notes": "• New Home screen: the fleet right now, today's pick-ups and returns, what is next, and the next 7 days\n• Home, Calendar, Today, Bookings and Fleet are all in the bottom bar\n• Settings → Display: choose whether the app opens on Home or Calendar"
 }
