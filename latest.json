@@ -1,6 +1,6 @@
 {
- "version": "1.21.0",
- "date": "2026-11-12",
- "url": "https://github.com/Klajd511/best-rent-calendar-app/raw/main/Best-Rent-Fleet-Calendar-1.21.0.apk",
- "notes": "• New Home screen: the fleet right now, today's pick-ups and returns, what is next, and the next 7 days\n• Home, Calendar, Today, Bookings and Fleet are all in the bottom bar\n• Settings → Display: choose whether the app opens on Home or Calendar"
+ "version": "1.22.0",
+ "date": "2026-11-17",
+ "url": "https://github.com/Klajd511/best-rent-calendar-app/raw/main/Best-Rent-Fleet-Calendar-1.22.0.apk",
+ "notes": "• New Statistics: Overview, Cars, Sources, Patterns and Ahead\n• Week, month, quarter, year or your own dates, compared with the previous period or last year\n• Filters by category, car, source and payment\n• Season curve, rental length, busiest weekdays, channel mix, returning customers, short gaps and the next 12 weeks"
 }
